@@ -1,1 +1,3 @@
-# madame-kimchi-whitepaper
+whitepaper.pdf
+├── whitepaper.pdf
+└── README.md
